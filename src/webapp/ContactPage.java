@@ -11,4 +11,6 @@ public class ContactPage {
     // youtube
 
     // email
+
+    // snapchat
 }
